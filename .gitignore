@@ -4,5 +4,4 @@ __pycache__/
 data/creditcard.csv
 models/*.keras
 models/*.pkl
-outputs/*.png
 .env
