@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+data/creditcard.csv
+models/*.keras
+models/*.pkl
+outputs/*.png
+.env
